@@ -1,0 +1,32 @@
+.outer-container{
+    border: 1px solid red;
+    width: 200px;
+    border-radius: 4px;
+   
+}
+
+.display{
+    width: 85%;
+    margin: 10px;
+    font-size: 25px;
+}
+.button-field{
+    /* margin: 15px; */
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+.button{
+    height: 45px;
+    width: 45px;
+    margin: 3px;
+}
+.main{
+    display: flex;
+    justify-content: center;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+}
